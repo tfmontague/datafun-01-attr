@@ -24,5 +24,5 @@ Develop a Python module with a byline function displaying information about your
 
 
 ```bash
-git clone https://github.com/tfmontague/datafun-01-attr
+git clone (https://github.com/tfmontague/datafun-01-attr)
 
