@@ -1,4 +1,4 @@
-''' This module provides a reusable byline for Montague Analytics' services. '''
+''' This module provides a reusable byline for Montague Analytics' projects. '''
 
 # importing dependencies
 import math
